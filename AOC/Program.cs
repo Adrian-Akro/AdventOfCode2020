@@ -5,7 +5,7 @@ using System.IO;
 namespace AOC {
     class Program {
         static void Main(string[] args) {
-            Day14.SolveDay14_2();
+            Day15.SolveDay15_1And2();
         }
     }
 }
